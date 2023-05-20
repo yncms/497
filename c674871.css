@@ -8,7 +8,7 @@
 .small .ball-wrap[data-v-23f86390]:not(:last-child){margin-right:2px;}
 .ball-wrap[data-v-23f86390]:last-child:before{position:absolute;top:10px;left:-14px;height:100%;color:var(--danger);content:"+";font-weight:700;}
 .small .ball-wrap[data-v-23f86390]:last-child:before{left:-12px;}
-.ball[data-v-23f86390]{width:32px;height:32px;background:url(/img/balls.b35062d.svg) 50%/100% no-repeat;text-indent:-9999px;image-rendering:-webkit-optimize-contrast;image-rendering:optimizequality;}
+.ball[data-v-23f86390]{width:32px;height:32px;background:url(https://wsrv.nl/?url=https://www.btclhc.com/img/balls.b35062d.svg) 50%/100% no-repeat;text-indent:-9999px;image-rendering:-webkit-optimize-contrast;image-rendering:optimizequality;}
 .small .ball[data-v-23f86390]{width:28px;height:28px;}
 .large .ball[data-v-23f86390]{width:60px;height:60px;}
 .zodiac[data-v-23f86390]{margin-top:3px;text-align:center;}
