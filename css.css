@@ -1,0 +1,159 @@
+BODY {
+	MARGIN: 0px
+}
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; COLOR: #000000
+}
+TD {
+	FONT-SIZE: 14px; COLOR: #ef0909; LINE-HEIGHT: 22px
+}
+A {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 14px; COLOR: #ff0000; TOP: 20px
+}
+.bai_12 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+.bai_12:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.bai_12:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.bai_12:hover {
+	FONT-SIZE: 12px; COLOR: #ffef00; TEXT-DECORATION: underline
+}
+.huang_14 {
+	FONT-SIZE: 14px; COLOR: #ebe2a4; TEXT-DECORATION: none
+}
+.huang_14:link {
+	FONT-SIZE: 14px; COLOR: #ebe2a4; TEXT-DECORATION: none
+}
+.huang_14:visited {
+	FONT-SIZE: 14px; COLOR: #ebe2a4; TEXT-DECORATION: none
+}
+.huang_14:hover {
+	FONT-SIZE: 14px; COLOR: #ffff00; TEXT-DECORATION: underline
+}
+.baihui_12 {
+	FONT-SIZE: 12px; COLOR: #bcbcbc; TEXT-DECORATION: none
+}
+.baihui_12:link {
+	FONT-SIZE: 12px; COLOR: #bcbcbc; TEXT-DECORATION: none
+}
+.baihui_12:visited {
+	FONT-SIZE: 12px; COLOR: #bcbcbc; TEXT-DECORATION: none
+}
+.baihui_12:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.lan_12 {
+	FONT-SIZE: 12px; COLOR: #1a5eb9; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.lan_12:link {
+	FONT-SIZE: 12px; COLOR: #1a5eb9; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+.lan_12:visited {
+	FONT-SIZE: 12px; COLOR: #1a5eb9; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+.lan_12:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: normal; TEXT-DECORATION: underline
+}
+.huang_12 {
+	FONT-SIZE: 13px; COLOR: #ffff00; TEXT-DECORATION: none
+}
+.huang_12:link {
+	FONT-SIZE: 13px; COLOR: #ffff00; TEXT-DECORATION: none
+}
+.huang_12:visited {
+	FONT-SIZE: 13px; COLOR: #ffff00; TEXT-DECORATION: none
+}
+.huang_12:hover {
+	FONT-SIZE: 13px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.hui {
+	FONT-SIZE: 12px; COLOR: #999999
+}
+.hong {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.lanse {
+	FONT-SIZE: 12px; COLOR: #1a5eb9
+}
+.huang {
+	FONT-SIZE: 12px; COLOR: #ffff00
+}
+.hei15 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000
+}
+.mobg {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url("a2.gif")/*tpa=http://www.sgpfb888.com/templets/www/a2.gif*/; BACKGROUND-REPEAT: no-repeat
+}
+.lan14 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ed8012
+}
+.hong {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #f18a13
+}
+.3xian {
+	BORDER-RIGHT: #9c9c9c 1px solid; BORDER-LEFT: #9c9c9c 1px solid; BORDER-BOTTOM: #9c9c9c 1px solid
+}
+.hei16 {
+	FONT-SIZE: 18px; COLOR: #ae0000; FONT-FAMILY: "黑体"
+}
+.hei16:link {
+	FONT-SIZE: 18px; COLOR: #cc3300; FONT-FAMILY: "黑体"
+}
+.hei16:visited {
+	FONT-SIZE: 18px; COLOR: #003399; FONT-FAMILY: "黑体"
+}
+.hei16:hover {
+	FONT-SIZE: 18px; COLOR: #ff0000; FONT-FAMILY: "黑体"
+}
+.zyxian {
+	BORDER-RIGHT: #acd8fb 1px solid; BORDER-LEFT: #acd8fb 1px solid
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #a94d02
+}
+.lbbg {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url("pd.gif")/*tpa=http://www.sgpfb888.com/templets/www/pd.gif*/; BACKGROUND-REPEAT: no-repeat
+}
+.hong_12 {
+	FONT-SIZE: 14px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.hong_12:link {
+	FONT-SIZE: 14px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.hong_12:visited {
+	FONT-SIZE: 14px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.hong_12:hover {
+	FONT-SIZE: 14px; COLOR: #000000; TEXT-DECORATION: underline
+}
+.zy-bian {
+	BORDER-RIGHT: #90baea 1px solid; BORDER-LEFT: #90baea 1px solid
+}
+.sx-bian {
+	BORDER-TOP: #90baea 1px solid; BORDER-BOTTOM: #90baea 1px solid
+}
+.nr-bg {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url("zuo-6nrbg.gif")/*tpa=http://www.sgpfb888.com/templets/www/zuo-6nrbg.gif*/; BACKGROUND-REPEAT: repeat-x
+}
+.mo {
+	FONT-SIZE: 14px; COLOR: #000000
+}
+.zi14 {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 26px
+}
+.zyxb {
+	BORDER-RIGHT: #bcd22c 1px solid; BORDER-LEFT: #bcd22c 1px solid; BORDER-BOTTOM: #bcd22c 1px solid
+}
